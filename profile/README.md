@@ -6,6 +6,6 @@ Spade sec团队秉持着开源至上的理念，致力于发布能解决实际�
 
 <img src="image/README/1775366230050.bmp" width="300">
 
-团队负责人：
+团队Github负责人：
 
 <img src="image/README/1775366266809.png" width="300">
