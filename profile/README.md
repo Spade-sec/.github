@@ -6,10 +6,8 @@ Spade sec & Spiderdemo团队秉持着开源至上的理念，致力于发布能�
 
 <img src="image/README/1775366230050.bmp" width="300">
 
-团队安全组招聘负责人：
+团队负责人：
 
 <img src="image/README/1775366266809.png" width="300">
-
-团队爬虫组招聘负责人：
 
 <img src="image/README/1779509200498.png" width="300">
